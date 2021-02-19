@@ -222,14 +222,8 @@
     </ItemsRelations>
     <ItemsRelations xmi:id="_5XrASHKWEeugutAjHcBIdQ">
       <baseItem xmi:id="_5XrASXKWEeugutAjHcBIdQ" id="_vtcFoHHJEeu7bpHfC-QHHQ" version="0.1" type="job"/>
-      <relatedItems xmi:id="_5XrASnKWEeugutAjHcBIdQ" id="_Be6RIO4aEeawiph590D2RA" version="Latest" type="property"/>
-      <relatedItems xmi:id="_5XrAS3KWEeugutAjHcBIdQ" id="DQTechnical" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_5XrATHKWEeugutAjHcBIdQ" id="DataMasking" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_kXv3UHKbEeugutAjHcBIdQ" id="_WiEoUHKYEeugutAjHcBIdQ" version="Latest" type="property"/>
       <relatedItems xmi:id="_5XrATXKWEeugutAjHcBIdQ" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_5XrATnKWEeugutAjHcBIdQ" id="DataQuality" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_5XrAT3KWEeugutAjHcBIdQ" id="DataQualityDependencies" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_5XrAUHKWEeugutAjHcBIdQ" id="DqStringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_5XrAUXKWEeugutAjHcBIdQ" id="MDM" version="Latest" type="routine"/>
       <relatedItems xmi:id="_5XrAUnKWEeugutAjHcBIdQ" id="Mathematical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_5XrAU3KWEeugutAjHcBIdQ" id="Numeric" version="Latest" type="routine"/>
       <relatedItems xmi:id="_5XrAVHKWEeugutAjHcBIdQ" id="Relational" version="Latest" type="routine"/>
