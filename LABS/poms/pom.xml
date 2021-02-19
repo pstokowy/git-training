@@ -14,6 +14,12 @@
     <module>jobs/process/job1_0.1</module>
     <module>jobs/process/job2_0.1</module>
     <module>jobs/process/job3_0.1</module>
+    <module>jobs/process/nCDC/dbmodsupdate_0.1</module>
+    <module>jobs/process/nCDC/dbmodsdelete_0.1</module>
+    <module>jobs/process/nCDC/dbmods_0.1</module>
+    <module>jobs/process/nCDC/syncwarehouse_0.1</module>
+    <module>jobs/process/nCDC/dbmodsinsert_0.1</module>
+    <module>jobs/process/nCDC/resetdatabasesforcdc_0.1</module>
   </modules>
   <properties>
     <talend.project.name>LABS</talend.project.name>
