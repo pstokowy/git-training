@@ -21,6 +21,7 @@
     <module>jobs/process/nCDC/resetdatabasesforcdc_0.1</module>
     <module>jobs/process/nCDC/dbmodsupdateone_0.1</module>
     <module>jobs/process/nCDC/dbmodsupdatemany_0.1</module>
+    <module>jobs/process/nCDC/dbmodsdelete_0.2</module>
   </modules>
   <properties>
     <talend.project.name>LABS</talend.project.name>

@@ -200,6 +200,21 @@
       <relatedItems xmi:id="_5XrAl3KWEeugutAjHcBIdQ" id="TalendStringUtil" version="Latest" type="routine"/>
       <relatedItems xmi:id="_5XrAmHKWEeugutAjHcBIdQ" id="_Be6RIO4aEeawiph590D2RA - customers" version="Latest" type="schema"/>
     </ItemsRelations>
+    <ItemsRelations xmi:id="_g4TsQHKsEeugutAjHcBIdQ">
+      <baseItem xmi:id="_g4TsQXKsEeugutAjHcBIdQ" id="_sgJGYHHNEeu7bpHfC-QHHQ" version="0.2" type="job"/>
+      <relatedItems xmi:id="_g4TsQnKsEeugutAjHcBIdQ" id="_WiEoUHKYEeugutAjHcBIdQ" version="Latest" type="property"/>
+      <relatedItems xmi:id="_g4UTUHKsEeugutAjHcBIdQ" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_g4UTUXKsEeugutAjHcBIdQ" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_g4UTUnKsEeugutAjHcBIdQ" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_g4UTU3KsEeugutAjHcBIdQ" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_g4UTVHKsEeugutAjHcBIdQ" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_g4UTVXKsEeugutAjHcBIdQ" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_g4UTVnKsEeugutAjHcBIdQ" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_g4UTV3KsEeugutAjHcBIdQ" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_g4UTWHKsEeugutAjHcBIdQ" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_g4UTWXKsEeugutAjHcBIdQ" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_g4UTWnKsEeugutAjHcBIdQ" id="_Be6RIO4aEeawiph590D2RA - customers" version="Latest" type="schema"/>
+    </ItemsRelations>
     <ItemsRelations xmi:id="_5XrANHKWEeugutAjHcBIdQ">
       <baseItem xmi:id="_5XrANXKWEeugutAjHcBIdQ" id="_uoLJwE9qEeaL3rbdV5999Q" version="0.1" type="job"/>
       <relatedItems xmi:id="_V5MjEHKbEeugutAjHcBIdQ" id="_HLKpUO4aEeawiph590D2RA" version="Latest" type="property"/>
